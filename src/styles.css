@@ -1,0 +1,9 @@
+tr,
+td {
+  height: 60px;
+  width: 60px;
+  border: 1px solid black;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 30px;
+}
